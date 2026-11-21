@@ -1,7 +1,5 @@
 # yolculuk
 
-> *Ben gelmedim dava için…*
-
 Burada anlatılacak bir şey yok.
 Anlatılan, okunanın gölgesi olur.
 
@@ -10,20 +8,6 @@ Kimisi o eşikte bir gün durur, kimisi otuz üç gün.
 
 Kapının ardında ne olduğunu sormayın.
 Kapıyı açın.
-
----
-
-### Kapıyı açmak için
-
-Bir Android cihazınız varsa:
-
-```bash
-./gradlew assembleDebug
-```
-
-Çıkan dosya şuradadır: `app/build/outputs/apk/debug/`
-
-Onu cihazınıza bırakın. Gerisi sizinle onun arasındadır.
 
 ---
 
