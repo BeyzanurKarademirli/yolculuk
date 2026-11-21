@@ -1,0 +1,672 @@
+[
+ {
+  "id": "sozler",
+  "ad": "Sözler",
+  "aciklama": "Külliyatın temel kitabı. 33 'Söz'den oluşur. İman, ibadet, haşir, nübüvvet, Kur'an ve kader gibi konuları akla ve kalbe hitap eden temsillerle anlatır. İlk Sözler, herkesin anlayabileceği kısa hikâyeler şeklindedir; sonraki Sözler daha derin ve kapsamlıdır.",
+  "bolumler": [
+   {
+    "id": "s1",
+    "baslik": "1. Söz",
+    "konu": "Bismillah: Her hayrın başı",
+    "ozet": "Çölde yolculuk eden bir adam, bir kabile reisinin adını anarak gider ve her tehlikeden korunur, her kapı ona açılır. Reisin adını anmayan diğer adam ise herkese muhtaç kalır ve sürekli korku içinde yaşar. 'Bismillah' demek de insanın sonsuz kudret sahibinin adıyla, onun izniyle hareket etmesidir. Tohum, toprak, ağaç ve hayvanlar bile kendi hâl dilleriyle 'Bismillah' der; çünkü hepsi Allah'ın adına iş görür. Nimetleri bize ulaştıran insanlar da yalnızca birer vasıtadır. Asıl sahibi Allah'tır ve şükür O'na yapılmalıdır.",
+    "anaFikir": "Allah'ın adıyla hareket eden kişi, aczi içinde sonsuz bir güce dayanır. Bismillah, insanı kâinat karşısında hem güçlü hem de minnettar kılan bir anahtardır.",
+    "dersler": [
+     "Her işe Allah'ın adıyla başlamak, işi ibadete dönüştürür.",
+     "Nimeti getiren vasıtaya değil, gönderen Asıl Sahibe şükredilmelidir.",
+     "Kâinattaki her varlık kendi diliyle Bismillah der."
+    ]
+   },
+   {
+    "id": "s2",
+    "baslik": "2. Söz",
+    "konu": "İmanın verdiği saadet",
+    "ozet": "İki adam güzel bir memlekete yolculuğa çıkar. Birinin gözünde her şey düşmanca ve sahipsizdir: Yollar karanlık, sesler matem, insanlar ölüme giden yolculardır. Diğeri ise aynı manzaraya iman gözüyle bakar: Her şey cömert bir sultanın misafirhanesidir, sesler bayram neşesidir, ölüm ise bir terhis ve kavuşmadır. İkisi aynı dünyada yaşar ama biri cehennemi, diğeri cenneti hisseder.",
+    "anaFikir": "İman, dünyanın kendisini değil, ona bakan gözü değiştirir. İman insanı bu dünyada da saadete ulaştırır; inkâr ise daha bu dünyada bir azaptır.",
+    "dersler": [
+     "Bakış açısı yaşanan hayatın tadını belirler.",
+     "İman, insanı yalnızlık ve sahipsizlik korkusundan kurtarır."
+    ]
+   },
+   {
+    "id": "s3",
+    "baslik": "3. Söz",
+    "konu": "İbadet ve isyanın sonuçları",
+    "ozet": "İki asker uzak bir şehre gitmekle görevlendirilir ve yolları ikiye ayrılır. Yol başındaki bir adam onlara şöyle der: Sağdaki yol düzenli ve devlete bağlıdır. Bu yolun yolcusu sırtında gıda dolu bir çanta ve omzunda her düşmana karşı koyacak bir tüfek taşır. Görünüşte yükü vardır, ama yolun sonunda kâr ve emniyet bulur. Soldaki yol ise başıboştur. Yolcusu çantasız ve silahsız gider; yükü hafif görünür ama yol boyunca herkese muhtaç kalır ve her tehlikeye açıktır. Sağ yol ibadet ve Allah'a kulluktur, sol yol ise isyan ve başıboşluktur. İbadetin yükü hafiftir ve insanı hayatın ağır yüklerinden kurtarır. İsyanın hafifliği ise yalancı bir rahatlıktır.",
+    "anaFikir": "İbadet büyük bir ticaret ve saadettir; isyan ise büyük bir zarardır. Kulluğun görünürdeki küçük yükü, insanı sayısız korku ve muhtaçlıktan kurtarır.",
+    "dersler": [
+     "Kulluğun yükü, aslında insanı koruyan bir azık ve silahtır.",
+     "Başıboşluğun hafifliği yalancı bir rahattır."
+    ]
+   },
+   {
+    "id": "s4",
+    "baslik": "4. Söz",
+    "konu": "Namazın kıymeti",
+    "ozet": "Bir padişah iki hizmetçisine 24'er altın verip onları iki aylık mesafedeki güzel bir çiftliğe gönderir. Yol masrafı için bu altınları harcayabilirler ama bir altını oraya varınca işe yarayacak bir yere, yani bir bankaya yatırmaları istenir. Akıllı olan bir altını yatırır, ahmak olan ise 23'ünü boş yere harcadıktan sonra son altını da kumara verir. Günün 24 saati 24 altın gibidir. Bunlardan yaklaşık bir saatini beş vakit namaza ayırmak, ebedî hayat için yapılmış bir yatırımdır.",
+    "anaFikir": "Namaz, kısa ve geçici ömrün bir kısmını ebedî bir hayata yatırmaktır. Bu yatırımı yapmamak, aklın kabul etmeyeceği büyük bir zarardır.",
+    "dersler": [
+     "Zaman bir sermayedir; nereye harcandığı önemlidir.",
+     "Günde bir saatlik namaz, ömrün tamamına anlam katar."
+    ]
+   },
+   {
+    "id": "s5",
+    "baslik": "5. Söz",
+    "konu": "İnsanın asıl vazifesi",
+    "ozet": "Seferberlik zamanında iki asker vardır. Biri talim ve savaş gibi asıl vazifesini yapar ve rızkını devletin vereceğine güvenir. Diğeri ise talimi bırakıp ekmek peşinde koşar. Komutan ona şöyle der: 'Senin vazifen talim ve savaştır; seni padişah besler.' Hayat da böyledir: İnsanın asıl vazifesi kulluktur. Rızkı ise Allah tekeffül etmiştir. Rızık için çalışmak meşrudur ama bu, asıl vazifeyi unutturmamalıdır.",
+    "anaFikir": "Namaz kılmak ve büyük günahlardan kaçınmak insanın asıl vazifesidir. Rızık kaygısı bu vazifeyi geri plana itmemelidir.",
+    "dersler": [
+     "Asıl vazife ile yan meşguliyetleri karıştırmamak gerekir.",
+     "Rızkı veren Allah'tır; insanın vazifesi ise kulluktur."
+    ]
+   },
+   {
+    "id": "s6",
+    "baslik": "6. Söz",
+    "konu": "Nefsi ve malı Allah'a satmak",
+    "ozet": "Bir padişah iki adamına bir çiftlik ve aletler emanet eder, sonra bunları onlardan satın almak ister: Hem emanet onlarda kalacak hem de çok yüksek bir fiyat verilecektir. Akıllı olan satar ve beş kâr elde eder. Fani olan mal baki olur. Değeri çok yüksek bir fiyat alınır. Aletler padişahın adına kullanıldığı için değerleri artar. Emanetin sorumluluğu padişaha geçer. Ve her iş, padişah için yapılmış bir hizmete dönüşür. Satmayan ise elindekileri zaten kaybedecektir ve bir de emaneti boşa harcamanın hesabını verecektir.",
+    "anaFikir": "Nefis ve mal Allah'ın emanetidir. Onları Allah'a 'satmak', yani O'nun rızası yolunda kullanmak, hem onları korur hem de ebedî bir kâr kazandırır.",
+    "dersler": [
+     "Sahip olduklarımız mülk değil emanettir.",
+     "Allah için kullanılan şey kaybolmaz, değer kazanır."
+    ]
+   },
+   {
+    "id": "s7",
+    "baslik": "7. Söz",
+    "konu": "İki tılsım: Allah'a ve ahirete iman",
+    "ozet": "Bir asker esir düşer ve ölüm cezasına çarptırılır. Darağacına götürülürken yolun her iki tarafında da tehlikeler vardır. O sırada bir dost iki ilaç verir: Biri ona Sultan ile bir bağ kurar, diğeri ise ölümün bir idam değil bir terhis olduğunu gösterir. Bu iki tılsımı alan asker korkudan kurtulur. Bu iki tılsım, Allah'a iman ve ahirete imandır. Bunların anahtarı ise namaz ve günahlardan kaçınmaktır.",
+    "anaFikir": "Kâinatın tılsımını ve insanın sırrını açan iki anahtar Allah'a iman ve ahirete imandır. Bu iki iman, insanı ölüm ve yokluk korkusundan kurtarır.",
+    "dersler": [
+     "İnsanın en büyük korkusu yokluktur; iman bu korkuyu ortadan kaldırır.",
+     "İmanın pratikteki anahtarı ibadet ve takvadır."
+    ]
+   },
+   {
+    "id": "s8",
+    "baslik": "8. Söz",
+    "konu": "Dünya ve insanın hakikati",
+    "ozet": "İki kardeş yolculuğa çıkar. Biri, kendi başına buyruk gittiği yolda korkunç bir kuyuya düşer. Kuyunun ağzındaki bir ağaca tutunur. Altında bir ejderha bekler, ağacın kökünü ak ve kara iki fare kemirir, ama o yine de ağacın meyveleriyle oyalanır. Kuyu kabirdir, ağaç ömürdür, iki fare ise gece ile gündüzdür. Diğer kardeş ise iman yolundan gider ve aynı manzarayı bambaşka görür: Kuyu bir hazine kapısıdır, ağaç ise sahibinin ikram ettiği bir sofradır.",
+    "anaFikir": "Dünya, iman ile bakılınca bir misafirhane ve imtihan yeridir. İmansız bakılınca ise bir zindan ve korku kuyusudur.",
+    "dersler": [
+     "Ömür, gece ve gündüzle kemirilen bir ağaç gibidir.",
+     "Geçici lezzetlerle oyalanmak, asıl tehlikeyi görmemektir."
+    ]
+   },
+   {
+    "id": "s9",
+    "baslik": "9. Söz",
+    "konu": "Beş vakit namazın hikmeti",
+    "ozet": "Her namaz vakti, büyük bir değişimin ve ilahi icraatın başlangıç noktasıdır. Sabah vakti hem günün başlangıcıdır hem de baharın başını, insanın anne karnına düşmesini ve dünyanın yaratılışının ilk gününü hatırlatır. Öğle, günün olgunluğunu, yazı ve gençliğin olgunluk çağını anlatır. İkindi, sonbaharı ve ihtiyarlığı; akşam, kışın gelişini, insanın ölümünü ve dünyanın sonunu; yatsı ise kabir âlemini ve ahiret âlemine geçişi hatırlatır.",
+    "anaFikir": "Beş vakit namaz, zamanın her dönüm noktasında insanı Allah'ın huzuruna çıkarır ve ona hem günü hem de ömrü bir ibadet hâlinde yaşatır.",
+    "dersler": [
+     "Her namaz vakti, ömrün bir evresini hatırlatır.",
+     "Zamanın döngüsü insana kendi hayatını okutur."
+    ]
+   },
+   {
+    "id": "s10",
+    "baslik": "10. Söz",
+    "konu": "Haşir ve ahiret",
+    "ozet": "Ahiretin varlığını on iki hakikatle ispat eder. Bu hakikatler Allah'ın isimlerine dayanır: Kerîm, Rahîm, Hakîm, Âdil, Hafîz ve diğerleri. Sonsuz bir rahmet, verdiği nimetleri ölümle tamamen yok etmez. Sonsuz bir adalet, zalimin ve mazlumun hesabını görülmeden bırakmaz. Sonsuz bir hikmet, kâinatı amaçsız bir oyun olarak yaratmaz. Baharda ölü toprağın dirilmesi, haşrin her yıl gözümüzün önünde gerçekleşen bir örneğidir.",
+    "anaFikir": "Allah'ın isimleri ve sıfatları ahireti gerekli kılar. Bu dünyanın hikmeti ve adaleti, ancak ahiretle tamamlanır.",
+    "dersler": [
+     "Her bahar, haşrin küçük bir örneğidir.",
+     "İlahi rahmet ve adalet, ahiret olmadan eksik kalırdı."
+    ]
+   },
+   {
+    "id": "s11",
+    "baslik": "11. Söz",
+    "konu": "Kâinatın tılsımı ve insanın vazifesi",
+    "ozet": "Bir padişah muhteşem bir saray yaptırır, onu süsler ve halkını misafir olarak davet eder. Sarayın her köşesi onun hazinelerini, sanatını ve cömertliğini gösterir. Davet edilenlere bir rehber verir ve sarayın anlamını anlatır. Kâinat bu saraydır, insan da misafirdir. Peygamberler ise rehberlerdir. İnsanın vazifesi bu sarayı seyretmek, sanatı takdir etmek, sahibini tanımak, sevmek ve ona şükretmektir. Namaz bu vazifenin özüdür.",
+    "anaFikir": "İnsan kâinatın seyircisi, okuyucusu ve şahididir. Onun vazifesi, kâinatta görünen ilahi isimleri tanıyıp kulluk etmektir.",
+    "dersler": [
+     "Kâinat amaçsız değil, okunmak için yaratılmış bir kitaptır.",
+     "İnsan bu kitabı hem okuyan hem de yansıtan bir aynadır."
+    ]
+   },
+   {
+    "id": "s12",
+    "baslik": "12. Söz",
+    "konu": "Kur'an'ın hikmeti ile felsefenin karşılaştırılması",
+    "ozet": "Kur'an'ın eğitimi ile felsefenin (Allah'ı tanımayan felsefenin) eğitimini dört esasta karşılaştırır. Felsefe insana kuvveti, menfaati, mücadeleyi ve nefsin isteklerini esas alan bir hayat önerir; bu da zulme, kıskançlığa ve çatışmaya yol açar. Kur'an ise hakkı, fazileti, yardımlaşmayı ve dini bağı esas alır; bu da huzur, kardeşlik ve olgunluk doğurur. Bir temsilde, eşyaya Allah adına bakan ile kendi adına bakan iki farklı insanın hâli anlatılır.",
+    "anaFikir": "Kur'an hikmeti, insanı kâinatı Allah adına okumaya ve hakkı, fazileti, kardeşliği esas almaya çağırır. Bu yol, insanı hem bireysel hem de toplumsal saadete götürür.",
+    "dersler": [
+     "Hayatın temeline neyi koyduğumuz, sonuçlarını belirler.",
+     "Eşyaya Allah adına bakmak, onlara anlam kazandırır."
+    ]
+   },
+   {
+    "id": "s13",
+    "baslik": "13. Söz",
+    "konu": "Kur'an'ın şiir olmaması ve gençlere hitap",
+    "ozet": "Birinci kısım, Kur'an'ın neden şiir olmadığını anlatır: Hakikat, şiirin süslü ve abartılı hayallerine ihtiyaç duymaz. İkinci kısım gençlere hitap eder. Gençlik geçicidir ve mutlaka gider; ama helal dairede iffet ve ibadetle geçirilirse kalıcı bir sevaba dönüşür. Gençliğin sarhoşluğu ise sonunda hastanede, hapiste ya da kabirde pişmanlıkla son bulabilir. Helal dairenin keyif için yeterli olduğunu, harama girmeye gerek olmadığını söyler.",
+    "anaFikir": "Gençlik bir sermaye ve emanettir. Doğru kullanılırsa ebedî bir gençliğe dönüşür, yanlış kullanılırsa uzun bir pişmanlık bırakır.",
+    "dersler": [
+     "Helal dairesi keyfe kâfidir.",
+     "Gençliği değerlendirmek, onun geçiciliğini bilmekle başlar."
+    ]
+   },
+   {
+    "id": "s14",
+    "baslik": "14. Söz",
+    "konu": "Kur'an'daki derin hakikatleri anlamak",
+    "ozet": "Kur'an'da bazı büyük hakikatlerin, örneğin göklerin ve yerin altı günde yaratılması gibi, ilk bakışta akla uzak görünebileceğini kabul eder. Bunları anlamak için küçük ve gözle görülen örneklere bakmayı öğretir: Bir ağacın tohumundan büyümesi, insanın bir damla sudan yaratılması, mevsimlerin değişmesi... Allah'ın büyük işlerdeki kudreti, küçük işlerdeki kudretiyle aynıdır.",
+    "anaFikir": "Büyük ilahi icraatlar, gözümüzün önündeki küçük örneklerde okunabilir. Kudret için büyük ve küçük birdir.",
+    "dersler": [
+     "Akla uzak gelen bir hakikati, ona benzeyen yakın bir örnekle anlamaya çalışmak gerekir."
+    ]
+   },
+   {
+    "id": "s15",
+    "baslik": "15. Söz",
+    "konu": "Gökler ve şeytanların taşlanması",
+    "ozet": "Mülk Suresi'nin 5. âyetinde anlatılan, göklerin yıldızlarla süslenmesi ve şeytanların bunlarla taşlanmasını yedi basamakta açıklar. Göklerin de kendi ahalisi olan meleklerle dolu olduğunu ve şeytanların gaybın haberlerine kulak hırsızlığı yapmaya çalıştığını anlatır. Bu kısa ifadenin, büyük bir hakimiyetin ve düzenin işareti olduğunu gösterir.",
+    "anaFikir": "Göklerdeki düzen, Allah'ın kâinattaki mutlak hâkimiyetinin bir delilidir. Kur'an kısa bir ifadeyle büyük bir hakikate işaret eder.",
+    "dersler": [
+     "Kâinatın her katı canlı ve anlamlıdır."
+    ]
+   },
+   {
+    "id": "s16",
+    "baslik": "16. Söz",
+    "konu": "Allah'ın her şeyi kolayca yaratması",
+    "ozet": "Yâsîn Suresi'nin 82. âyetini açıklar: 'O bir şeyi dilediğinde, onun emri sadece Ol demektir; o da hemen olur.' Bir güneşin aynı anda sayısız aynaya yansıyıp her birinde tam olarak görünmesi gibi, Allah'ın kudreti de aynı anda her yerde ve her şeyde tam olarak tecelli eder. Kudret için büyük ile küçük, çok ile az arasında bir fark yoktur.",
+    "anaFikir": "Allah'ın kudreti mekânla ve sayıyla sınırlı değildir. Bir şeyi yaratmak ile bütün kâinatı yaratmak O'na göre aynı kolaylıktadır.",
+    "dersler": [
+     "Güneş ve ayna temsili, ilahi kudretin her yerde hazır oluşunu anlamayı kolaylaştırır."
+    ]
+   },
+   {
+    "id": "s17",
+    "baslik": "17. Söz",
+    "konu": "Dünya hayatının geçiciliği ve nimetler",
+    "ozet": "Dünya hayatının neden hem geçici hem de sıkıntılı yaratıldığını anlatır: Kalbin dünyaya bağlanmaması ve asıl sevgiliyi araması içindir. Dünyanın nimetleri ahiret nimetlerinin birer numunesidir; tadılsın ve asılları istensin diye verilmiştir. Bölümün sonlarında, dünyanın faniliğini ve kalbin Allah'a yönelişini anlatan şiirsel münacatlar yer alır.",
+    "anaFikir": "Dünya ve içindeki nimetler kendileri için değil, ahirete ve Allah'a işaret eden birer numune ve ayna olarak verilmiştir.",
+    "dersler": [
+     "Fani olana kalbi bağlamak, ayrılık acısını hazırlamaktır.",
+     "Her dünya nimeti bir cennet nimetinin habercisidir."
+    ]
+   },
+   {
+    "id": "s18",
+    "baslik": "18. Söz",
+    "konu": "Nefsin gururu ve Peygamber'in risaleti",
+    "ozet": "Birinci makamda nefsine hitap ederek onun gururunu kırar: Güzellik, iyilik ve kemal insanın değil, Allah'ındır. İnsan yalnızca bir ayna ve emanetçidir. İkinci makamda ise kâinattaki güzelliğin ve sanatın, onu tanıtacak ve takdir edecek bir rehbere ihtiyaç duyduğunu gösterir. Bu rehber Hz. Muhammed'dir.",
+    "anaFikir": "Nefis kendinde olmayan güzellikle övünmemelidir. Kâinattaki güzellik, onu anlatan bir rehberi, yani bir peygamberi gerektirir.",
+    "dersler": [
+     "İyilikleri kendine mal etmek gururun kaynağıdır.",
+     "Sanat, sanatkârını tanıtacak bir rehbere ihtiyaç duyar."
+    ]
+   },
+   {
+    "id": "s19",
+    "baslik": "19. Söz",
+    "konu": "Peygamberliğin ispatı (Risalet-i Ahmediye)",
+    "ozet": "Hz. Muhammed'in peygamberliğini on dört 'reşha' (damla) ile ispat eder. Onun ümmi olup bütün insanlığa hitap eden bir kitap getirmesi, ahlakının mükemmelliği, mucizeleri, getirdiği dinin kısa sürede insanlığın büyük bir kısmını dönüştürmesi ve önceki kitaplardaki müjdeler bunlardandır. Kâinat bir kitapsa, Hz. Muhammed onun en büyük öğretmenidir.",
+    "anaFikir": "Hz. Muhammed'in hayatı, ahlakı ve getirdiği mesaj, onun Allah'ın elçisi olduğunun açık delilleridir.",
+    "dersler": [
+     "Peygamberin ahlakı, getirdiği mesajın doğruluğunun en güçlü delilidir."
+    ]
+   },
+   {
+    "id": "s20",
+    "baslik": "20. Söz",
+    "konu": "Peygamber mucizeleri ve insanlığın ilerleyişi",
+    "ozet": "Kur'an'da anlatılan peygamber kıssalarının ve mucizelerinin, yalnızca tarihî olaylar değil, insanlığın gelecekteki ilerleyişine dair işaretler olduğunu söyler. Hz. Süleyman'ın rüzgârla yolculuğu uçağa, Hz. Mûsâ'nın asasının taştan su çıkarması yer altı sularını bulmaya, Hz. İsa'nın hastaları iyileştirmesi tıbbın ilerleyişine işarettir. Hz. Âdem'e isimlerin öğretilmesi ise insana bütün ilimlerin kabiliyetinin verildiğini gösterir.",
+    "anaFikir": "Kur'an insanı ilme ve ilerlemeye teşvik eder. Peygamber mucizeleri, insanlığın ulaşabileceği hedeflerin birer işaretidir.",
+    "dersler": [
+     "İlim ve teknoloji Allah'ın insana verdiği kabiliyetlerin meyvesidir.",
+     "Kur'an kıssaları geleceğe de bakar."
+    ]
+   },
+   {
+    "id": "s21",
+    "baslik": "21. Söz",
+    "konu": "Namaza devam ve vesvese",
+    "ozet": "Birinci makamda namazın zor gelmesine karşı nefse cevap verir: Ömrün ne kadar süreceği belli değildir, namaz ise bir yük değil bir dinlenme ve rahatlamadır. Kalbin, ruhun ve aklın gıdası namazdadır. İkinci makamda vesvese hastalığına karşı beş 'yara'yı ve ilaçlarını anlatır: Vesvesenin insanın kendi kabahati olmadığını, ona fazla önem vermemek gerektiğini ve şeytanın vesvesesinin aslında imanın varlığına bir işaret olduğunu söyler.",
+    "anaFikir": "Namaz ruh için bir gıdadır, bir yük değildir. Vesvese ise önemsenmedikçe zayıflayan bir hastalıktır.",
+    "dersler": [
+     "Vesveseye fazla önem vermek onu büyütür.",
+     "Namaz, günlük hayatın yorgunluğuna karşı bir dinlenmedir."
+    ]
+   },
+   {
+    "id": "s22",
+    "baslik": "22. Söz",
+    "konu": "Tevhid",
+    "ozet": "Allah'ın birliğini on iki delille ispat eder. Bir temsilde, iki adam bir padişahın memleketine girer. Biri her şeyde padişahın mührünü görür ve onu tanır. Diğeri ise her şeyi tesadüfe veya sebeplere verir ve sayısız saçma sonuca varır. Kâinatın her yerinde görülen bir mühür, yani düzen, sanat ve birlik, onun tek bir Yaratıcı'nın eseri olduğunu gösterir.",
+    "anaFikir": "Kâinattaki her şey, bir tek Yaratıcı'nın mührünü taşır. Tevhid hem en akli hem de en kolay açıklamadır.",
+    "dersler": [
+     "Her varlık üzerinde Yaratıcısının mührü vardır.",
+     "Birçok sebebe vermek, bir tek Sebeb'e vermekten daha zordur."
+    ]
+   },
+   {
+    "id": "s23",
+    "baslik": "23. Söz",
+    "konu": "İmanın güzellikleri ve insanın mahiyeti",
+    "ozet": "Birinci mebhas imanın güzelliklerini anlatır: İman insanı yüceltir, ona değer katar, onu kâinatın efendisi yapar. Tevekkülün ne kadar rahatlatıcı olduğunu bir gemi temsiliyle anlatır: Yükünü gemiye bırakan rahat eder. İkinci mebhas ise insanın mahiyetini inceler: İnsan son derece aciz ve muhtaç yaratılmıştır, ama bu acz ve fakr onun Allah'a yönelmesinin ve kulluğunun kaynağıdır. Dua da bu acz ve ihtiyacın en doğal ifadesidir.",
+    "anaFikir": "İnsanın gerçek değeri imandadır. Acz ve muhtaçlık ise onu Allah'a bağlayan ve duaya yönelten bir hazinedir.",
+    "dersler": [
+     "Acizlik, doğru kullanılırsa güç kaynağı olur.",
+     "Tevekkül hayatın yükünü hafifletir."
+    ]
+   },
+   {
+    "id": "s24",
+    "baslik": "24. Söz",
+    "konu": "Allah'ın isimleri (Esmâ-i İlâhiyye)",
+    "ozet": "Beş 'dal' halinde, Allah'ın isimlerinin kâinatta nasıl tecelli ettiğini anlatır. Bir padişahın farklı unvanlarla farklı dairelerde görünmesi gibi, Allah da her isminin tecellisiyle farklı varlıklarda görünür. Ayrıca Kur'an ve hadislerdeki bazı müteşabih (yoruma açık) ifadelerin nasıl anlaşılması gerektiğini ve bazı rivayetlerin nasıl değerlendirileceğini açıklar.",
+    "anaFikir": "Kâinat, Allah'ın isimlerinin bir sergisidir. Her varlık bir veya birkaç ilahi ismin aynasıdır.",
+    "dersler": [
+     "Varlıklara, onlarda görünen isimler açısından bakmak marifetullaha götürür."
+    ]
+   },
+   {
+    "id": "s25",
+    "baslik": "25. Söz",
+    "konu": "Kur'an'ın mucizeliği (Mucizat-ı Kur'aniye)",
+    "ozet": "Kur'an'ın mucize olduğunu üç 'şule' (alev) ile ispat eder. Birinci şule Kur'an'ın belâgatını, yani kısa ifadelerle derin anlamlar taşımasını inceler. Gıybet âyetinin tek bir cümleyle altı ayrı açıdan nasıl uyardığı buna bir örnektir. İkinci şule Kur'an'ın her zamana ve her insana hitap etmesini, gaybdan haber vermesini anlatır. Üçüncü şule ise Kur'an'ın insanlık üzerindeki etkisini ve getirdiği medeniyeti, diğer medeniyetlerle karşılaştırır.",
+    "anaFikir": "Kur'an, hem ifade gücü, hem içeriği hem de insanlık üzerindeki etkisiyle, insan sözü olamayacak bir mucizedir.",
+    "dersler": [
+     "Kur'an'ın her cümlesi birçok katmanda anlam taşır.",
+     "Gıybet, kardeşinin etini yemek gibidir."
+    ]
+   },
+   {
+    "id": "s26",
+    "baslik": "26. Söz",
+    "konu": "Kader ve cüz-i ihtiyarî",
+    "ozet": "Kaderin ne olduğunu ve insanın iradesiyle nasıl bir arada var olduğunu anlatır. Kader, Allah'ın her şeyi ezelden bilip bir ölçüyle takdir etmesidir. İnsanın cüz-i ihtiyarîsi, yani sınırlı iradesi ise küçük ama gerçek bir seçme gücüdür. İnsan seçer, Allah yaratır. Kader inancı iki şeyi sağlar: İnsan iyilikleri kendine mal edip gururlanmaz, kötülükleri ise nefsinden bilip sorumluluk alır. Musibetlerde ise kader inancı insanı teselli eder. Bölümün sonunda hakikat yolunun dört adımı anlatılır: acz, fakr, şefkat ve tefekkür.",
+    "anaFikir": "Kadere iman eden, kederden emin olur. Kader insanı gururdan, cüz-i ihtiyarî ise mesuliyetten kaçmaktan korur.",
+    "dersler": [
+     "İyilik Allah'tan, kusur nefistendir.",
+     "Hakikat yolu: acz, fakr, şefkat, tefekkür."
+    ]
+   },
+   {
+    "id": "s27",
+    "baslik": "27. Söz",
+    "konu": "İçtihat ve sahabenin üstünlüğü",
+    "ozet": "Dinde içtihat (hüküm çıkarma) kapısının açık olduğunu, ama bu zamanda bunun için ciddi engeller bulunduğunu anlatır. Dinin kesin hükümlerinde içtihat olamaz. Yalnızca yoruma açık konularda, ehliyetli kişilerce içtihat yapılabilir. Hevesleriyle hareket eden birinin dini değiştirmeye kalkışmasının tehlikesini gösterir. Bölümün zeylinde, sahabenin neden sonraki bütün velilerden daha üstün olduğu açıklanır.",
+    "anaFikir": "İçtihat, ehliyet ve takva ile dinin kesin esaslarına bağlı kalarak yapılır. Hevesle yapılan 'içtihat' dini korumaz, bozar.",
+    "dersler": [
+     "Dinin sabit esasları ile değişebilen yorumları ayırmak gerekir."
+    ]
+   },
+   {
+    "id": "s28",
+    "baslik": "28. Söz",
+    "konu": "Cennet",
+    "ozet": "Cennet hakkında akla gelebilecek bazı soruları cevaplar: Cennetteki bedeni lezzetler, huriler, cennetin genişliği ve ebediliği gibi... Bedenin ve duyuların da cennette, kendilerine uygun lezzetlerle mükâfatlandırılacağını anlatır. Cennetin, dünyadaki güzelliklerin ve nimetlerin kalıcı ve mükemmel asılları olduğunu söyler.",
+    "anaFikir": "Cennet, insanın bütün duygu ve organlarının, dünyada ibadet ve şükürle değerlendirdiği nimetlerin ebedî ve kusursuz karşılığıdır.",
+    "dersler": [
+     "Dünyadaki nimetler cennetin birer numunesidir."
+    ]
+   },
+   {
+    "id": "s29",
+    "baslik": "29. Söz",
+    "konu": "Melekler, ruhun bekası ve haşir",
+    "ozet": "Üç maksattan oluşur. Birinci maksat meleklerin varlığını ispat eder: Dünyadaki her yer canlılarla dolu olduğuna göre, göklerin de kendine uygun canlıları, yani melekleri olmalıdır. İkinci maksat ruhun ölümden sonra devam ettiğini gösterir: Ruh bir kanun gibidir; beden değişse de o kalır. Üçüncü maksat ise haşrin hem mümkün hem de gerekli olduğunu ispat eder.",
+    "anaFikir": "Kâinat canlılarla doludur; ruh ölümsüzdür ve haşir, Allah'ın kudreti ve hikmeti için zor değildir.",
+    "dersler": [
+     "Ruh, bedenin değişmesiyle yok olmaz."
+    ]
+   },
+   {
+    "id": "s30",
+    "baslik": "30. Söz",
+    "konu": "Ene (benlik) ve zerre",
+    "ozet": "Birinci maksat insandaki 'ene'yi (benliği) anlatır. Ene, insanın Allah'ın isimlerini anlaması için verilmiş bir ölçü aletidir. Ene kendine mânâ-yı harfî ile, yani başkasını gösteren bir işaret olarak bakarsa bir ayna olur. Mânâ-yı ismî ile, yani kendi başına bir varlık olarak bakarsa bir put hâline gelir. İkinci maksat ise zerrelerin hareketini inceler: Her zerre, sonsuz bir ilim ve kudretle hareket eden ve Allah'ın birliğini gösteren bir memurdur.",
+    "anaFikir": "Benlik, bir ayna olarak kullanılırsa marifetullaha, sahiplik iddiasıyla kullanılırsa firavunluğa götürür.",
+    "dersler": [
+     "'Ben' kelimesi, Allah'ı tanımanın anahtarı ya da önündeki perde olabilir."
+    ]
+   },
+   {
+    "id": "s31",
+    "baslik": "31. Söz",
+    "konu": "Mi'raç",
+    "ozet": "Hz. Muhammed'in mi'racını, yani göklere yükselişini dört esasta ele alır: Mi'racın neden gerekli olduğu, hakikati, hikmeti ve meyveleri. Bir padişahın yaverini ülkesinin bütün dairelerini gezdirmesi gibi, Allah'ın da en sevdiği kulunu kâinatın bütün katlarında gezdirdiğini anlatır. Mi'racın meyvelerinden biri, ümmetine bir hediye olarak getirilen namazdır.",
+    "anaFikir": "Mi'raç, Peygamber'in kâinatın sırlarını görüp insanlığa getirdiği bir yolculuktur. Namaz ise mü'minin kendi mi'racıdır.",
+    "dersler": [
+     "Namaz, mi'racın ümmete hediyesidir."
+    ]
+   },
+   {
+    "id": "s32",
+    "baslik": "32. Söz",
+    "konu": "Allah'ın ortağının olmaması",
+    "ozet": "Üç 'mevkıf' (durak) halinde, kâinatta Allah'tan başka bir yaratıcının ve ortağın olamayacağını ispat eder. Bir temsilde, bir şirk taraftarı her zerreye, her varlığa ve her âleme 'Sen bir ortak mısın?' diye sorar; her birinin Yaratıcı'nın birliğine şahitlik ettiğini görür. Ayrıca insanın kendi aklının ve kalbinin, ancak bir tek Yaratıcı'ya iman etmekle tatmin olabileceğini gösterir.",
+    "anaFikir": "Kâinatta ortaklığa yer yoktur; her şey tek bir Yaratıcı'nın eseridir. Kalp ancak tevhid ile huzur bulur.",
+    "dersler": [
+     "Her varlık, tevhide bir şahittir."
+    ]
+   },
+   {
+    "id": "s33",
+    "baslik": "33. Söz",
+    "konu": "Otuz üç pencere",
+    "ozet": "Sözler'in sonunda, Allah'ı tanımak için otuz üç 'pencere' açar. Her pencere farklı bir yönden marifetullaha bakmayı sağlar: varlıkların ihtiyacı, rızıkların dağıtılması, hayatın sırrı, insanın mahiyeti, düzen, güzellik, ölüm ve hayatın dönüşümü... Kitabın bütününde anlatılanların bir özeti ve bir zirvesi gibidir.",
+    "anaFikir": "Kâinatın her köşesi, Allah'ı tanımak için açılmış bir penceredir. İnsan hangi pencereden bakarsa baksın, aynı hakikate ulaşır.",
+    "dersler": [
+     "Marifetullaha giden yollar, varlıklar sayısınca çoktur."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mektubat",
+  "ad": "Mektubat",
+  "aciklama": "Talebelerinin ve dostlarının sorularına cevap olarak yazılmış 33 mektuptan oluşur. İman meselelerinin yanında, günlük hayata, kardeşliğe, siyasete ve tasavvufa dair sorulara da cevap verir. Aşağıda seçilmiş mektupların özetleri yer alır.",
+  "bolumler": [
+   {
+    "id": "m1",
+    "baslik": "1. Mektup",
+    "konu": "Dört soruya cevap: Hızır, ölüm, cehennem, mecazi aşk",
+    "ozet": "Bir talebesinin dört sorusuna cevap verir. Hz. Hızır'ın hayatta olup olmadığını ve hayatın farklı mertebelerini anlatır. Ölümün de hayat gibi yaratılmış bir şey olduğunu, bir yokluk değil, bir terhis ve daha güzel bir hayata geçiş olduğunu açıklar. Cehennemin yerine dair bir soruya cevap verir. Son olarak, bir insana duyulan mecazi aşkın nasıl hakiki aşka, yani Allah sevgisine dönüşebileceğini anlatır.",
+    "anaFikir": "Ölüm bir yokluk değil, yaratılmış bir geçiştir. Fani bir şeye duyulan aşk, gerçek Sevgili'ye yöneltildiğinde kalıcı bir aşka dönüşür.",
+    "dersler": [
+     "Ölüm, hayat vazifesinden bir terhistir.",
+     "Fani olana duyulan sevgi, Baki olana yönelince acıdan kurtulur."
+    ]
+   },
+   {
+    "id": "m2",
+    "baslik": "2. Mektup",
+    "konu": "Hediye kabul etmemek",
+    "ozet": "Said Nursî'nin neden insanlardan hediye ve sadaka kabul etmediğini anlatır. Bunun sebebi, iman hizmetinin dünya menfaatine alet edilmemesi ve hakikatin saflığının korunmasıdır. Kendisi iktisatla, yani az ile yetinerek yaşadığını ve bunun bereketini gördüğünü söyler.",
+    "anaFikir": "Hakikati anlatan kişi, dünya menfaatinden müstağni olmalıdır; yoksa insanlar onun sözünü menfaatine yorar.",
+    "dersler": [
+     "İstiğna, yani başkasına muhtaç olmamak, sözün tesirini artırır.",
+     "İktisat bereket getirir."
+    ]
+   },
+   {
+    "id": "m16",
+    "baslik": "16. Mektup",
+    "konu": "Siyasetten uzak durmak",
+    "ozet": "Barla sürgünü sırasında, neden siyasete karışmadığına dair sorulara cevap verir. Siyaset ile iman hizmetinin karıştırılmasının, iman hizmetine zarar vereceğini söyler. Bu zamanda en büyük ihtiyacın iman hakikatleri olduğunu, bunun da her türlü siyasi tarafgirlikten uzak olarak yapılması gerektiğini anlatır.",
+    "anaFikir": "İman hizmeti her siyasi görüşten insana hitap eder; bu yüzden siyasete alet edilmemelidir.",
+    "dersler": [
+     "Hakikat bir partinin değil, herkesin malıdır."
+    ]
+   },
+   {
+    "id": "m19",
+    "baslik": "19. Mektup",
+    "konu": "Peygamberimizin mucizeleri (Mucizat-ı Ahmediye)",
+    "ozet": "Hz. Muhammed'in mucizelerini on dokuz işaret halinde anlatır. Ayın ikiye bölünmesi, parmaklarından su akması, az yemeğin pek çok kişiyi doyurması, ağaçların ve taşların onunla konuşması, hayvanların ona itaat etmesi gibi mucizeleri güvenilir rivayetlere dayanarak aktarır. En büyük mucizesinin ise Kur'an olduğunu vurgular.",
+    "anaFikir": "Peygamberimizin sayısız mucizesi, onun Allah'ın elçisi olduğunun delilidir; en büyük ve kalıcı mucizesi ise Kur'an'dır.",
+    "dersler": [
+     "Mucizeler, peygamberin elindeki ilahi tasdik mührüdür."
+    ]
+   },
+   {
+    "id": "m20",
+    "baslik": "20. Mektup",
+    "konu": "Tevhid kelimesinin müjdeleri",
+    "ozet": "'Lâ ilâhe illallahu vahdehû lâ şerîke leh, lehü'l-mülkü ve lehü'l-hamdü, yuhyî ve yümît, ve hüve hayyun lâ yemût, biyedihi'l-hayr, ve hüve alâ külli şey'in kadîr' cümlesindeki on bir kelimeyi tek tek inceler. Her kelimenin hem bir müjde hem de tevhide dair bir delil taşıdığını gösterir. Örneğin 'vahdehû' (O tektir) kelimesi, insanı sayısız kapıya muhtaç olmaktan kurtaran bir müjdedir.",
+    "anaFikir": "Tevhid kelimesinin her parçası, insan ruhuna bir teselli ve kâinata dair bir hakikat sunar.",
+    "dersler": [
+     "Tek bir Efendi'ye bağlanmak, insanı sayısız korkudan kurtarır."
+    ]
+   },
+   {
+    "id": "m22",
+    "baslik": "22. Mektup",
+    "konu": "Kardeşlik (Uhuvvet Risalesi) ve hırs",
+    "ozet": "Birinci mebhas, mü'minler arasındaki düşmanlığın, kinin ve hasedin hem hakikate hem de hikmete aykırı olduğunu anlatır. Bir mü'minde düşmanlığa sebep olan bir kusur varsa, sevgiye sebep olan iman ve kardeşlik gibi pek çok sıfat da vardır. 'Kötülüğe iyilikle karşılık ver' ilkesini öğütler. İkinci mebhas ise hırsın insanı nasıl zarara uğrattığını, kanaatin ise nasıl izzet getirdiğini anlatır.",
+    "anaFikir": "Mü'minler arasındaki düşmanlık, hem kendine hem de topluma bir zulümdür. Kardeşliği korumak, imanın gereğidir.",
+    "dersler": [
+     "Bir kusur için bin iyiliği görmezden gelmek adalet değildir.",
+     "Hırs zillete, kanaat izzete götürür."
+    ]
+   },
+   {
+    "id": "m26",
+    "baslik": "26. Mektup",
+    "konu": "Şeytana karşı Kur'an'ın delili ve çeşitli meseleler",
+    "ozet": "Birinci kısım, şeytanın Kur'an'a karşı vesveselerine cevap verir ve Kur'an'ın üslubunu savunur. Diğer kısımlarda ise çeşitli meselelere değinir: Hz. Âdem'den beri süren hak ve batıl mücadelesi, insanlar arasındaki ilişkiler, ırkçılığın zararı ve milliyetin müspet ile menfi yönleri gibi konular ele alınır.",
+    "anaFikir": "Kur'an'ın üslubu ilahidir ve şeytanın vesveseleri ona zarar veremez. İslam kardeşliği ırk bağından daha güçlüdür.",
+    "dersler": [
+     "Menfi milliyetçilik ayrılık getirir; müspet milliyet ise kardeşliğe hizmet eder."
+    ]
+   },
+   {
+    "id": "m29",
+    "baslik": "29. Mektup",
+    "konu": "Ramazan, Kur'an ve oruç",
+    "ozet": "Ramazan orucunun hikmetlerini dokuz nüktede anlatır. Oruç, Allah'ın nimetlerinin kıymetini bildirir; zengini yoksulun hâlinden anlatır; nefsi terbiye eder; insana sağlık verir ve Kur'an'ın indirildiği ayı Kur'an'la geçirmeyi sağlar. Mektubun diğer kısımlarında Kur'an'ın tercümesinin neden aslının yerini tutamayacağı gibi meselelere de değinir.",
+    "anaFikir": "Oruç, nimetin değerini bildiren, nefsi terbiye eden ve toplumu şefkatle birleştiren çok yönlü bir ibadettir.",
+    "dersler": [
+     "Açlık, nimetin kıymetini bildirir.",
+     "Oruç zengini yoksula yaklaştırır."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lemalar",
+  "ad": "Lem'alar",
+  "aciklama": "33 'Lem'a'dan (parıltı) oluşur. Kendi hayatındaki tecrübelerden doğan risaleler ağırlıktadır. İhlas, hastalık, yaşlılık, iktisat, tesettür ve tabiat gibi konular ele alınır. Aşağıda seçilmiş Lem'aların özetleri yer alır.",
+  "bolumler": [
+   {
+    "id": "l1",
+    "baslik": "1. Lem'a",
+    "konu": "Hz. Yunus'un duası",
+    "ozet": "Hz. Yunus balığın karnında, karanlık bir gecede ve fırtınalı bir denizdeyken, hiçbir sebebin onu kurtaramayacağını anladı ve 'Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn' duasını okudu. Bu dua onu kurtardı. Said Nursî, bizim durumumuzun da buna benzediğini söyler: Denizimiz dünyadır, gecemiz belirsiz gelecektir, balığımız ise nefsimizdir. Bizi de ancak bütün sebeplerin sahibi olan Allah kurtarabilir.",
+    "anaFikir": "Bütün sebeplerin aciz kaldığı yerde, insanı yalnızca sebeplerin sahibi kurtarabilir. Hz. Yunus'un duası, her mü'minin duasıdır.",
+    "dersler": [
+     "Sebeplerden ümit kesilince, Müsebbibü'l-Esbâb'a yönelmek gerekir.",
+     "Nefis, insanı yutan bir balık gibidir."
+    ]
+   },
+   {
+    "id": "l2",
+    "baslik": "2. Lem'a",
+    "konu": "Hz. Eyyûb'un sabrı ve duası",
+    "ozet": "Hz. Eyyûb uzun yıllar ağır bir hastalığa sabretti. Ancak hastalık kalbine ve diline ulaşıp zikrine ve ibadetine engel olmaya başlayınca, 'Rabbim, bu dert bana dokundu; sen merhametlilerin en merhametlisisin' diye dua etti. Said Nursî, bizim de manevi yaralarımız olduğunu, bunların günahlar ve şüpheler olduğunu söyler. Bunlar için Hz. Eyyûb'un duasına daha çok muhtacız. Ayrıca bugünün sıkıntısını geçmişin ve geleceğin sıkıntılarıyla birleştirmemeyi öğütler.",
+    "anaFikir": "Sabır, şikâyeti Allah'tan başkasına yapmamaktır. Asıl tehlikeli olan bedenin değil, kalbin ve ruhun hastalıklarıdır.",
+    "dersler": [
+     "Sabır kuvvetini yalnızca bugüne harcamak gerekir.",
+     "Manevi hastalıklar, maddi hastalıklardan daha tehlikelidir."
+    ]
+   },
+   {
+    "id": "l3",
+    "baslik": "3. Lem'a",
+    "konu": "Baki olan yalnızca Allah'tır",
+    "ozet": "'Yâ Bâkî, ente'l-Bâkî' (Ey Baki, kalıcı olan yalnızca sensin) cümlesinin anlamını açıklar. Dünyada sevilen her şeyin geçici olduğunu, ama bunların asıl sahibinin Baki olduğunu anlatır. Bir insan bu fani şeyleri Baki'nin isimlerinin aynaları olarak severse, onlar gidince de sevgisi boşa gitmez. İnsanın ömrünün çok kısa ama bu kısa ömürde ebedî bir hayat kazanabileceğini anlatır.",
+    "anaFikir": "Fani olanı kendi için değil, Baki'nin bir aynası olarak sevmek, ayrılık acısını kalıcı bir sevgiye dönüştürür.",
+    "dersler": [
+     "Kalıcı olana bağlanan, geçici olanın kaybından yıkılmaz."
+    ]
+   },
+   {
+    "id": "l19",
+    "baslik": "19. Lem'a",
+    "konu": "İktisat (tutumluluk)",
+    "ozet": "İktisadın, yani ölçülü harcamanın hem bir şükür hem de bir saygı olduğunu anlatır. İsraf, nimeti hor görmek ve şükürsüzlüktür. İktisat eden kişinin rızkının bereketlendiğini, israf edenin ise zillete düştüğünü söyler. Lezzet için israf etmenin anlamsızlığını da şöyle anlatır: Yemeğin lezzeti ağızda yalnızca birkaç saniye sürer; bu kısa an için çok para harcamak akıllıca değildir. Kanaatin izzet, hırsın ise zillet getirdiğini gösterir.",
+    "anaFikir": "İktisat, nimete şükür ve kanaatin kapısıdır; israf ise nimeti hor görmek ve bereketi kaybetmektir.",
+    "dersler": [
+     "İktisat eden muhtaç olmaz.",
+     "Lezzetin değeri kısa, israfın zararı uzundur."
+    ]
+   },
+   {
+    "id": "l20",
+    "baslik": "20. Lem'a",
+    "konu": "İhlas (Birinci İhlas Risalesi)",
+    "ozet": "Hak yolunda olanların neden birbiriyle anlaşamadığını, batıl yolda olanların ise nasıl birleşebildiğini sorar. Cevabı şudur: Hak yolundakiler bazen hizmetlerinde ihlası kaybeder; makam, şöhret ve takdir peşine düşerek birbirlerine rakip olurlar. İhtilafın sebeplerini tek tek sayar ve ilaçlarını gösterir. İhlasın en büyük kuvvet olduğunu, onu kıran şeylerin ise kıskançlık, hırs ve kendini beğenmek olduğunu anlatır.",
+    "anaFikir": "İhlas kaybolunca hak ehli bile birbirine düşer. Hizmetin gücü, kişilerin sayısında değil, niyetlerinin samimiyetindedir.",
+    "dersler": [
+     "Rekabet, hizmeti kişisel bir yarışa çevirir.",
+     "Allah için yapılan hizmette 'benim' payımı aramak ihlası kırar."
+    ]
+   },
+   {
+    "id": "l21",
+    "baslik": "21. Lem'a",
+    "konu": "İhlas düsturları (İkinci İhlas Risalesi)",
+    "ozet": "Birlikte hizmet edenler için ihlası korumanın düsturlarını verir. Amelinde Allah'ın rızasını gözetmek. Aynı yoldaki kardeşlerini tenkit etmemek ve onlara üstünlük taslamamak. Bütün kuvvetin ihlasta ve hakta olduğunu bilmek. Kardeşlerinin meziyetleriyle iftihar etmek. Ayrıca birlikteliğin gücünü bir rakam örneğiyle gösterir: Dört 'bir' ayrı ayrı dört eder, ama birleşince bin yüz on bir eder.",
+    "anaFikir": "Samimi bir birliktelik, kişilerin gücünü katlayarak artırır. İhlası korumak, birlikte çalışmanın temel şartıdır.",
+    "dersler": [
+     "Kardeşinin başarısıyla sevinmek ihlasın alametidir.",
+     "Birlik olunca güç katlanır."
+    ]
+   },
+   {
+    "id": "l23",
+    "baslik": "23. Lem'a",
+    "konu": "Tabiat Risalesi",
+    "ozet": "Varlıkların nasıl var olduğuna dair inkârcı açıklamaları üç cümleye indirger: 'Sebepler yaptı', 'Kendi kendine oldu' ve 'Tabiat yaptı'. Sonra bu açıklamaların her birinin akla ne kadar uzak olduğunu, sayısız saçma sonuç doğurduğunu gösterir. Tabiatın bir sanatkâr değil, ilahi bir sanat; bir kanun koyucu değil, ilahi bir kanun olduğunu anlatır. Bir sinekteki sanatın bile sonsuz bir ilim ve kudret gerektirdiğini gösterir.",
+    "anaFikir": "Tabiat yaratıcı değil, yaratılmıştır. Kâinattaki düzen ve sanat, ancak sonsuz ilim ve kudret sahibi bir Yaratıcı ile açıklanabilir.",
+    "dersler": [
+     "'Kendiliğinden oldu' demek, bir şeyi açıklamak değil, açıklamaktan kaçmaktır."
+    ]
+   },
+   {
+    "id": "l24",
+    "baslik": "24. Lem'a",
+    "konu": "Tesettür Risalesi",
+    "ozet": "Kur'an'daki tesettür hükmünün, kadının fıtratına, onurunun ve değerinin korunmasına uygun olduğunu dört hikmetle anlatır. Tesettürün kadını bir süs eşyası olmaktan koruduğunu, aile hayatını ve sadakati koruduğunu, ve toplumda ahlakın korunmasına yardım ettiğini söyler. Kadınların şefkat kahramanları olduğunu da özellikle vurgular.",
+    "anaFikir": "Tesettür kadını sınırlamak için değil, onun değerini, onurunu ve aile huzurunu korumak için konulmuş fıtri bir hükümdür.",
+    "dersler": [
+     "Şefkat, kadının en büyük kahramanlığıdır."
+    ]
+   },
+   {
+    "id": "l25",
+    "baslik": "25. Lem'a",
+    "konu": "Hastalar Risalesi",
+    "ozet": "Hastalar için yirmi beş 'deva', yani manevi ilaç sunar. Hastalık sabırla karşılanınca kısa ömrü manen uzatır; çünkü hastalık anları ibadet hükmüne geçer. Hastalık günahları siler, gaflet uykusundan uyandırır ve sağlığın kıymetini bildirir. Allah'ın hastalıkla kulunu temizlediğini, onun şefkat ve merhamet duygularını canlandırdığını anlatır. Şikâyetin hastalığı ikiye katladığını, şükrün ise hafiflettiğini söyler.",
+    "anaFikir": "Hastalık bir ceza değil, bir arınma, uyanış ve ibadet fırsatıdır. Sabır ve şükür, hastalığın yükünü hafifletir.",
+    "dersler": [
+     "Hastalık anları, sabırla ibadet hükmüne geçer.",
+     "Şikâyet derdi ikiye katlar."
+    ]
+   },
+   {
+    "id": "l26",
+    "baslik": "26. Lem'a",
+    "konu": "İhtiyarlar Risalesi",
+    "ozet": "Yaşlılara yirmi altı 'rica', yani ümit kapısı açar. Kendi yaşlılığında, gurbette ve yalnızlıkta yaşadığı hüzünlü anları anlatır ve her birinde iman sayesinde nasıl teselli bulduğunu gösterir. Ak saçın bir rahmet mektubu olduğunu, ölümün bir kavuşma olduğunu ve Allah'ın Müslüman olarak yaşlanmış bir kula azap etmekten haya ettiğini müjdeleyen hadisi hatırlatır. Hayatındaki manevi dönüm noktalarını da anlatır.",
+    "anaFikir": "Yaşlılık, iman sahibi için bir hüzün değil, ahirete hazırlanmanın ve rahmete yaklaşmanın vaktidir.",
+    "dersler": [
+     "Ak saç, rahmetin bir mektubudur.",
+     "Yaşlılığın yalnızlığı, iman ile ünsiyete dönüşür."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sualar",
+  "ad": "Şualar",
+  "aciklama": "15 'Şua'dan (ışık) oluşur. Tevhid, ahiret ve iman konularını derinlemesine işleyen risalelerin yanı sıra mahkeme müdafaalarını da içerir. Aşağıda seçilmiş Şuaların özetleri yer alır.",
+  "bolumler": [
+   {
+    "id": "su4",
+    "baslik": "4. Şua",
+    "konu": "Hasbünallah ve ni'me'l-vekîl",
+    "ozet": "'Allah bize yeter, O ne güzel vekildir' cümlesinin anlamını açıklar. Bu cümleyi, insanın yaşlılık, gurbet, hastalık ve ölüm korkusu gibi en zor anlarında okunacak bir teselli olarak anlatır. Her zorlukta 'Hasbünallah' demenin, insanı bütün sebeplerden bağımsız kılıp sonsuz kudret sahibine bağladığını gösterir.",
+    "anaFikir": "Allah'ı vekil edinen kişi, hiçbir sebebe muhtaç kalmaz. 'Hasbünallah', insanın en zor anlarındaki sığınağıdır.",
+    "dersler": [
+     "Allah yeter; O olunca her şey vardır."
+    ]
+   },
+   {
+    "id": "su7",
+    "baslik": "7. Şua",
+    "konu": "Âyetü'l-Kübrâ (Bir seyyahın kâinata soruları)",
+    "ozet": "Dünyaya misafir gelmiş bir yolcu, Yaratıcısını tanımak için kâinatı dolaşır. Göklere, yıldızlara, havaya, denize, dağlara, bitkilere, hayvanlara, insanlara, peygamberlere, velilere, meleklere ve Kur'an'a başvurur. Her biri kendi diliyle ona Allah'ın birliğini ve varlığını anlatır. Seyyahın her duraktan aldığı ders, bir tevhid deliline dönüşür.",
+    "anaFikir": "Kâinatın her parçası, Allah'ın birliğine şahitlik eden bir 'büyük âyet'tir. Sistemli bir tefekkür, insanı tahkiki imana ulaştırır.",
+    "dersler": [
+     "Kâinat, sorulduğunda cevap veren bir kitaptır.",
+     "Tefekkür, bir yolculuk gibi adım adım yapılabilir."
+    ]
+   },
+   {
+    "id": "su9",
+    "baslik": "9. Şua",
+    "konu": "Haşir",
+    "ozet": "Rûm Suresi'nin 17-27. âyetlerini esas alarak haşrin, yani ölümden sonra dirilişin delillerini anlatır. Gece ile gündüzün, kışla baharın ve ölü toprağın dirilmesinin haşre birer örnek olduğunu gösterir. Allah'ın isimlerinin ve kâinattaki hikmetin ahireti gerekli kıldığını açıklar.",
+    "anaFikir": "Her sabah ve her bahar, haşrin küçük birer örneğidir. Ölüyü dirilten kudret için, insanları diriltmek zor değildir.",
+    "dersler": [
+     "Doğadaki her diriliş, büyük dirilişe bir işarettir."
+    ]
+   },
+   {
+    "id": "su11",
+    "baslik": "11. Şua",
+    "konu": "Meyve Risalesi",
+    "ozet": "Denizli hapsinde yazılmıştır. On bir 'mesele' halinde, iman esaslarını gençlere ve hapisteki insanlara hitap eden bir dille anlatır. Hapishaneyi bir medreseye, sıkıntıyı bir ibadete dönüştürmeyi öğretir. Allah'a, ahirete, meleklere ve kadere imanı açıklar. Gençlere, gençliklerini doğru değerlendirmeleri için öğütler verir.",
+    "anaFikir": "En zor şartlar bile, iman ile bir okula ve ibadete dönüşebilir. Hapis ve sıkıntı, insanın kendini bulmasına vesile olabilir.",
+    "dersler": [
+     "Sıkıntılı bir saat, sabırla bir günlük ibadet hükmüne geçer."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "diger",
+  "ad": "Diğer Eserler",
+  "aciklama": "Külliyatın diğer önemli eserleri: tefsir, ilk dönem eserleri ve derlemeler.",
+  "bolumler": [
+   {
+    "id": "d1",
+    "baslik": "İşârâtü'l-İ'câz",
+    "konu": "Fatiha ve Bakara Suresi'nin başının tefsiri",
+    "ozet": "Birinci Dünya Savaşı'nda, cephede yazılmış Arapça bir tefsirdir. Fatiha Suresi'ni ve Bakara Suresi'nin ilk 33 âyetini, Kur'an'ın kelime ve cümleleri arasındaki düzen ve uyum (nazım) açısından inceler. Her kelimenin, cümle içindeki yerinin ve diğer kelimelerle ilişkisinin, Kur'an'ın mucizeliğinin bir delili olduğunu gösterir. İnfakın şartları gibi pratik dersler de içerir.",
+    "anaFikir": "Kur'an'ın mucizeliği, kelimelerinin ve cümlelerinin arasındaki eşsiz uyumda da gizlidir.",
+    "dersler": [
+     "Kur'an'ın her kelimesi yerinde ve anlamlıdır."
+    ]
+   },
+   {
+    "id": "d2",
+    "baslik": "Mesnevî-i Nuriye",
+    "konu": "Tefekkür ve münacat risaleleri",
+    "ozet": "Eski Said'den Yeni Said'e geçiş döneminde yazılmış Arapça risalelerdir. Kendi iç dünyasındaki tefekkürleri, Allah'ı tanıma yolunda yaşadığı manevi tecrübeleri ve münacatlarını içerir. Risale-i Nur'un tohumlarının bu eserde bulunduğu kabul edilir. 'Lâ ilâhe illallah' ve 'Sübhanallah' gibi zikirlerin anlamını derinlemesine işler.",
+    "anaFikir": "Risale-i Nur'un temel fikirleri, Said Nursî'nin kendi iç yolculuğundan doğmuştur.",
+    "dersler": [
+     "Tefekkür, insanın kendi kalbinde başlar."
+    ]
+   },
+   {
+    "id": "d3",
+    "baslik": "Hutbe-i Şâmiye",
+    "konu": "Emevî Camii'nde verilen hutbe",
+    "ozet": "1911'de Şam'daki Emevî Camii'nde verdiği hutbedir. İslam âleminin geri kalmasının altı hastalığını sayar: ümitsizlik, doğruluğun ölmesi, düşmanlığı sevmek, mü'minleri birbirine bağlayan bağları bilmemek, istibdat ve kişisel menfaati düşünmek. Bunlara karşı altı ilaç önerir: ümit, doğruluk, muhabbet, kardeşlik, istişare ve ortak menfaati gözetmek.",
+    "anaFikir": "İslam âleminin dirilişi, ümit, doğruluk, muhabbet ve istişare ile mümkündür.",
+    "dersler": [
+     "Muhabbete en layık şey muhabbettir; düşmanlığa en layık şey düşmanlıktır.",
+     "Ümitsizlik, en büyük hastalıktır."
+    ]
+   },
+   {
+    "id": "d4",
+    "baslik": "Münâzarât",
+    "konu": "Doğu aşiretleriyle sohbetler",
+    "ozet": "Doğu Anadolu'daki aşiretlerle yaptığı sohbetlerin soru-cevap şeklinde yazılmış hâlidir. Hürriyet, meşrutiyet, istişare, eğitim ve din ile fen ilimlerinin birlikte okutulması gibi konuları ele alır. Medreselerde din ve fen ilimlerinin bir arada okutulması gerektiğini savunur.",
+    "anaFikir": "Kalbin ışığı din ilimleri, aklın ışığı fen ilimleridir; ikisi birleşince hakikat ortaya çıkar.",
+    "dersler": [
+     "Din ve bilim birbirinin rakibi değil, tamamlayıcısıdır."
+    ]
+   },
+   {
+    "id": "d5",
+    "baslik": "Gençlik Rehberi",
+    "konu": "Gençlere yönelik derleme",
+    "ozet": "Risale-i Nur'un çeşitli yerlerinden, özellikle gençlere hitap eden bölümlerden yapılmış bir derlemedir. Gençliğin geçiciliği, iffet, ahiretin varlığı, hapisteki gençlere öğütler ve imanın gençliğe kazandırdıkları gibi konuları içerir. Sözler'in 13. Söz'ü ve Şualar'ın Meyve Risalesi'nden bölümler de bu derlemede yer alır.",
+    "anaFikir": "Gençlik bir sermayedir; iman ve iffetle değerlendirilirse ebedî bir gençliğe dönüşür.",
+    "dersler": [
+     "Gençliğin keyfi, helal dairesi içinde yeterlidir."
+    ]
+   }
+  ]
+ }
+]

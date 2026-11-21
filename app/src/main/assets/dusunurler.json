@@ -1,0 +1,215 @@
+[
+  {
+    "id": "gazali", "oncelikli": true,
+    "ad": "İmam Gazâlî", "donem": "1058–1111 · Tûs", "devir": "Klasik dönem",
+    "kisa": "Hüccetü'l-İslâm. Aklı, kalbi ve şeriatı bir araya getiren büyük âlim.",
+    "hayat": "Ebû Hâmid Muhammed el-Gazâlî, Horasan'ın Tûs şehrinde doğdu. İmâmü'l-Haremeyn Cüveynî'den ders aldı ve genç yaşta Bağdat Nizamiye Medresesi'nin baş müderrisi oldu. Şöhretinin zirvesindeyken yaşadığı derin manevi kriz sonucu makamını bıraktı; yaklaşık on yıl Şam, Kudüs, Mekke ve Medine'de inziva ve seyahat içinde yaşadı. Bu süreçte hakikate ulaşmanın yolunun yalnızca bilgide değil, tecrübe edilen bir hâlde, yani tasavvufta olduğu kanaatine vardı. Kelam, fıkıh, felsefe eleştirisi ve tasavvufu birleştiren eserleriyle 'Hüccetü'l-İslâm' (İslam'ın delili) unvanıyla anıldı. Tûs'ta vefat etti.",
+    "eserler": ["İhyâü Ulûmi'd-Dîn (Din İlimlerinin İhyası)", "Kîmyâ-yı Saâdet (Mutluluğun Kimyası)", "el-Munkız mine'd-Dalâl (Dalaletten Kurtuluş)", "Eyyühe'l-Veled (Ey Oğul)", "Bidâyetü'l-Hidâye (Hidayetin Başlangıcı)", "Mişkâtü'l-Envâr (Nurlar Feneri)", "Tehâfütü'l-Felâsife (Filozofların Tutarsızlığı)", "Makâsıdü'l-Felâsife", "Mîzânü'l-Amel", "el-İktisâd fi'l-İ'tikâd", "Faysalü't-Tefrika", "el-Müstasfâ", "el-Hikme fî Mahlûkâtillâh"]
+  },
+  {
+    "id": "ibnarabi", "oncelikli": true,
+    "ad": "Muhyiddîn İbnü'l-Arabî", "donem": "1165–1240 · Mürsiye – Şam", "devir": "Altın çağ",
+    "kisa": "Şeyh-i Ekber. Vahdet-i vücûd ve İnsan-ı Kâmil düşüncesinin büyük sistemcisi.",
+    "hayat": "Endülüs'ün Mürsiye (Murcia) şehrinde doğdu, İşbiliye'de (Sevilla) yetişti. Gençliğinde yaşadığı manevi tecrübelerden sonra Endülüs ve Kuzey Afrika'daki pek çok şeyhten feyz aldı. 1201'de doğuya göç etti; Mekke, Konya, Malatya ve Bağdat'ta bulundu, ömrünün son yıllarını Şam'da geçirdi. Konya'da Sadreddîn Konevî'nin annesiyle evlenerek onu yetiştirdi. Varlığın hakikatte bir olduğu, kâinatın Allah'ın isimlerinin tecellisi olduğu ve insanın bu isimlerin hepsini yansıtan bir ayna olduğu fikirlerini derinlemesine işledi. 'Şeyh-i Ekber' (en büyük şeyh) diye anılır. Kabri Şam'daki Sâlihiye semtindedir.",
+    "eserler": ["el-Fütûhâtü'l-Mekkiyye (Mekke Fetihleri)", "Fusûsu'l-Hikem (Hikmetlerin Özleri)", "Tercümânü'l-Eşvâk (Özlemlerin Tercümanı)", "Rûhu'l-Kuds", "et-Tedbîrâtü'l-İlâhiyye", "Mevâkiu'n-Nücûm"]
+  },
+  {
+    "id": "mevlana", "oncelikli": true,
+    "ad": "Mevlânâ Celâleddîn-i Rûmî", "donem": "1207–1273 · Belh – Konya", "devir": "Altın çağ",
+    "kisa": "Aşkın ve neyin şairi. Mesnevî ile gönülleri asırlardır besleyen veli.",
+    "hayat": "Belh'te doğdu; babası 'Sultânü'l-Ulemâ' Bahâeddin Veled ile birlikte Moğol tehlikesi önünde göç ederek Anadolu'ya, Karaman'dan sonra Konya'ya yerleşti. Babasının vefatından sonra Seyyid Burhâneddin Muhakkık-ı Tirmizî'nin terbiyesinde yetişti ve saygın bir âlim oldu. 1244'te Şems-i Tebrîzî ile karşılaşması hayatını kökten değiştirdi; medrese âliminden aşk şairine dönüştü. Şems'in kaybolmasından sonra Selâhaddin Zerkûb ve Hüsâmeddin Çelebi ile sohbetlerini sürdürdü; Mesnevî'yi Hüsâmeddin Çelebi'nin isteğiyle yazdırdı. Vefat gecesini sevgiliye kavuşma günü saydığı için 'Şeb-i Arûs' (düğün gecesi) diye anılır.",
+    "eserler": ["Mesnevî (altı cilt, yaklaşık 25.000 beyit)", "Dîvân-ı Kebîr", "Fîhi Mâfîh (sohbetleri)", "Mecâlis-i Seb'a (Yedi Meclis)", "Mektûbât (mektupları)"]
+  },
+  {
+    "id": "yunus", "oncelikli": true,
+    "ad": "Yunus Emre", "donem": "1240?–1320? · Anadolu", "devir": "Altın çağ",
+    "kisa": "Anadolu'nun gönül eri. İlahi aşkı sade Türkçeyle söyleyen derviş şair.",
+    "hayat": "Hayatı hakkında kesin bilgi azdır; 13. yüzyılın ikinci yarısı ile 14. yüzyılın başında yaşadığı kabul edilir. Menkıbeye göre kıtlık yılında Hacı Bektâş-ı Velî'ye buğday istemeye gitmiş, 'nefes mi buğday mı' sorusuna buğday demiş, sonra pişman olup yönlendirildiği Tapduk Emre'nin dergâhında kırk yıl hizmet etmiştir. Şiirlerinde 'Taptuk'un tapusunda kul olduk kapusunda' der. Arapça ve Farsça bilmesine rağmen halkın anlayacağı sade bir Türkçeyi tercih etmiş; aşk, ölüm, gönül, insan sevgisi ve kendini bilmek temalarını eşsiz bir samimiyetle işlemiştir. Anadolu'nun pek çok yerinde ona nisbet edilen kabir ve makam bulunur.",
+    "eserler": ["Dîvân (ilahi ve şiirleri)", "Risâletü'n-Nushiyye (Öğüt Risalesi, mesnevi tarzında)"]
+  },
+  {
+    "id": "nursi", "oncelikli": true,
+    "ad": "Bediüzzaman Said Nursî", "donem": "1877–1960 · Bitlis – Urfa", "devir": "Yakın dönem",
+    "kisa": "Risale-i Nur'un müellifi. Kâinatı okuyarak imanı tahkik etmeyi öğreten müceddid.",
+    "hayat": "Bitlis'in Nurs köyünde doğdu. Olağanüstü zekâsı ve hafızasıyla genç yaşta medrese ilimlerini tamamlayınca 'Bediüzzaman' (zamanın eşsizi) diye anıldı. Medresede din ilimleriyle fen ilimlerinin birlikte okutulması fikrini savundu. Birinci Dünya Savaşı'nda gönüllü alay komutanı olarak savaştı ve Ruslara esir düştü. Kendi ifadesiyle 'Eski Said' döneminden sonra, 1920'lerde 'Yeni Said' olarak siyasetten tamamen el çekip yalnız iman hizmetine yöneldi. Barla, Kastamonu, Emirdağ ve Isparta'daki sürgün yıllarında; Eskişehir, Denizli ve Afyon hapishanelerinde Risale-i Nur Külliyatı'nı telif etti. Eserleri uzun yıllar elle yazılarak çoğaltıldı. Urfa'da vefat etti.",
+    "eserler": ["Sözler", "Mektubat", "Lem'alar", "Şualar", "İşârâtü'l-İ'câz", "Mesnevî-i Nuriye", "Barla, Kastamonu ve Emirdağ Lâhikaları", "Asâ-yı Mûsâ", "Muhâkemât, Münâzarât, Hutbe-i Şâmiye (ilk dönem eserleri)"]
+  },
+
+  {
+    "id": "hasanbasri", "ad": "Hasan-ı Basrî", "donem": "642–728 · Medine – Basra", "devir": "İlk dönem",
+    "kisa": "Zühd ve hüzün ekolünün öncüsü; tâbiînin büyüklerinden.",
+    "hayat": "Medine'de doğdu, sahabenin terbiyesinde büyüdü, ömrünün çoğunu Basra'da geçirdi. Dünyaya karşı uyanıklığı, ahiret korkusu ve samimi vaazlarıyla sonraki bütün sûfîlerin örnek aldığı bir zühd anlayışının temsilcisi oldu.",
+    "eserler": ["Vaaz ve sözleri (sonraki eserlerde nakledilir)", "Halife Ömer b. Abdülaziz'e yazdığı öğüt mektubu"]
+  },
+  {
+    "id": "rabia", "ad": "Râbiatü'l-Adeviyye", "donem": "ö. 801 · Basra", "devir": "İlk dönem",
+    "kisa": "İlahi aşkın sembolü; karşılıksız ibadetin sesi.",
+    "hayat": "Basra'da yoksul bir ailede doğdu, gençliğinde köle olarak satıldığı rivayet edilir; ibadetteki ihlası sebebiyle azat edildi. Allah'ı cennet ümidi veya cehennem korkusu için değil, yalnızca O'nun zatı için sevmeyi öğütleyen sözleriyle tasavvufta 'ilahi muhabbet' anlayışını derinleştirdi.",
+    "eserler": ["Sözleri ve münacatları (Attâr'ın Tezkiretü'l-Evliyâ'sı gibi eserlerde nakledilir)"]
+  },
+  {
+    "id": "edhem", "ad": "İbrahim b. Edhem", "donem": "ö. 777 · Belh – Şam", "devir": "İlk dönem",
+    "kisa": "Tahtını bırakıp derviş olan Belh hükümdarı.",
+    "hayat": "Belh'te hükümdar ailesinden geldiği rivayet edilir. Yaşadığı bir uyanışla saltanatı bırakıp Suriye'ye gitti; alın teriyle geçinerek, bağ bekçiliği ve hasat işçiliği yaparak zühd içinde yaşadı. Helal kazanç ve dünyaya bağlanmamanın sembolü oldu.",
+    "eserler": ["Sözleri (tasavvuf klasiklerinde nakledilir)"]
+  },
+  {
+    "id": "bistami", "ad": "Bâyezîd-i Bistâmî", "donem": "ö. 848 (veya 874) · Bistâm", "devir": "İlk dönem",
+    "kisa": "Fenâ ve vecd hâllerinin ilk büyük temsilcisi.",
+    "hayat": "İran'ın Bistâm kasabasında yaşadı. Nefsin yok oluşu (fenâ) ve Allah'ta kalma (bekâ) hallerini coşkulu ve cesur ifadelerle (şathiyyât) dile getirdi. Sarhoşluk (sekr) yolunun önderi kabul edilir.",
+    "eserler": ["Sözleri (Sehlegî'nin derlediği en-Nûr min Kelimâti Ebî Tayfûr)"]
+  },
+  {
+    "id": "cuneyd", "ad": "Cüneyd-i Bağdâdî", "donem": "ö. 910 · Bağdat", "devir": "İlk dönem",
+    "kisa": "Seyyidü't-tâife; ölçülü ve şeriata bağlı tasavvufun önderi.",
+    "hayat": "Bağdat'ta yaşadı, dayısı Serî es-Sakatî'nin terbiyesinde yetişti. Coşkuyu ölçüyle, hâli ilimle dengeleyen 'sahv' (ayıklık) yolunu temsil etti. Tasavvufun Kitap ve Sünnet'e bağlı olması gerektiğini vurgulayan sözleriyle sonraki tarikatların ortak dayanağı oldu.",
+    "eserler": ["Resâil (risale ve mektupları)"]
+  },
+  {
+    "id": "hallac", "ad": "Hallâc-ı Mansûr", "donem": "858–922 · Bağdat", "devir": "İlk dönem",
+    "kisa": "'Ene'l-Hak' sözüyle bilinen, aşk ve fedanın sembolü.",
+    "hayat": "Fars bölgesinde doğdu, Cüneyd gibi şeyhlerle görüştü. Coşkulu hâlleri ve 'Ene'l-Hak' (Ben Hakk'ım) gibi sözleri yanlış anlaşıldı, siyasi sebeplerin de etkisiyle uzun bir hapis sonrası Bağdat'ta idam edildi. Sonraki sûfîler bu sözü fenâ hâlinin ifadesi olarak yorumlamıştır.",
+    "eserler": ["Kitâbü't-Tavâsîn", "Dîvân"]
+  },
+  {
+    "id": "tirmizi", "ad": "Hakîm et-Tirmizî", "donem": "ö. 910 civarı · Tirmiz", "devir": "İlk dönem",
+    "kisa": "Velâyet nazariyesinin ilk sistemcilerinden.",
+    "hayat": "Horasan'ın Tirmiz şehrinde yaşadı. Hadis, fıkıh ve tasavvufu birleştirdi; nefsin halleri ve velilik (velâyet) üzerine yazdıklarıyla İbnü'l-Arabî'yi de etkiledi. 'Hakîm' lakabı derin hikmetinden gelir.",
+    "eserler": ["Hatmü'l-Evliyâ", "Nevâdirü'l-Usûl"]
+  },
+
+  {
+    "id": "kuseyri", "ad": "Abdülkerîm el-Kuşeyrî", "donem": "986–1072 · Nişabur", "devir": "Klasik dönem",
+    "kisa": "Tasavvufun temel kavramlarını anlatan meşhur Risâle'nin müellifi.",
+    "hayat": "Nişabur'da yaşadı; Ebû Ali ed-Dekkâk'ın öğrencisi ve damadı oldu. Kelam ve fıkıh âlimi olarak tasavvufu Ehl-i Sünnet çizgisiyle uzlaştırmaya çalıştı. Risâle'si yüzyıllarca tekkelerde ve medreselerde ders kitabı olarak okundu.",
+    "eserler": ["er-Risâle (Kuşeyrî Risalesi)", "Letâifü'l-İşârât (tasavvufi tefsir)"]
+  },
+  {
+    "id": "hucviri", "ad": "Hücvîrî", "donem": "ö. 1072 civarı · Gazne – Lahor", "devir": "Klasik dönem",
+    "kisa": "Farsça yazılmış ilk büyük tasavvuf kitabının sahibi; 'Dâtâ Genc-bahş'.",
+    "hayat": "Gazne'de doğdu, uzun seyahatlerden sonra Lahor'a yerleşti. Hint alt kıtasında İslam'ın yayılmasında etkili oldu; türbesi bugün de büyük bir ziyaretgâhtır.",
+    "eserler": ["Keşfü'l-Mahcûb (Örtülü Olanın Açılması)"]
+  },
+  {
+    "id": "ensari", "ad": "Abdullah-ı Ensârî", "donem": "1006–1089 · Herat", "devir": "Klasik dönem",
+    "kisa": "'Pîr-i Herat'; Allah yolunun yüz menzilini anlatan şeyh.",
+    "hayat": "Herat'ta yaşadı; hadis âlimi ve sûfî şairdi. Farsça münacatları dilden dile dolaştı. Menâzilü's-Sâirîn'de seyr-i süluku yüz makamda anlattı.",
+    "eserler": ["Menâzilü's-Sâirîn", "Münâcâtnâme", "Tabakâtü's-Sûfiyye"]
+  },
+  {
+    "id": "geylani", "ad": "Abdülkâdir Geylânî", "donem": "1077–1166 · Geylan – Bağdat", "devir": "Klasik dönem",
+    "kisa": "Kâdiriyye tarikatının piri; 'Gavs-ı Âzam'.",
+    "hayat": "Hazar Denizi kıyısındaki Geylan'da doğdu, Bağdat'ta Hanbelî fıkhı ve hadis tahsil etti. Vaazları binlerce kişiyi etkiledi. Şeriat ile tarikatı ayrılmaz gören, kader karşısında teslimiyet ile nefse karşı mücadeleyi birlikte öğreten bir yol öğretti.",
+    "eserler": ["el-Fethu'r-Rabbânî", "Fütûhu'l-Gayb", "el-Gunye"]
+  },
+  {
+    "id": "yesevi", "ad": "Hoca Ahmed Yesevî", "donem": "ö. 1166 · Yesi (Türkistan)", "devir": "Klasik dönem",
+    "kisa": "Pîr-i Türkistan; Türk tasavvufunun kurucusu.",
+    "hayat": "Sayram'da doğdu, Yesi'de (bugünkü Türkistan şehri) yaşadı. Hikmet adı verilen Türkçe şiirleriyle tasavvufu Türk boylarına sade bir dille ulaştırdı. Talebeleri aracılığıyla Anadolu'ya kadar uzanan bir etki bıraktı.",
+    "eserler": ["Dîvân-ı Hikmet"]
+  },
+
+  {
+    "id": "suhreverdi", "ad": "Şehâbeddin Ömer Sühreverdî", "donem": "1145–1234 · Bağdat", "devir": "Altın çağ",
+    "kisa": "Sühreverdiyye tarikatının kurucusu; Avârif'in müellifi.",
+    "hayat": "Bağdat'ta yaşadı, amcası Ebu'n-Necîb Sühreverdî'den feyz aldı. Abbasi halifesinin elçisi olarak Konya'ya da geldi. Avârifü'l-Maârif, tasavvuf âdabının en çok okunan el kitaplarından biri oldu.",
+    "eserler": ["Avârifü'l-Maârif"]
+  },
+  {
+    "id": "attar", "ad": "Ferîdüddîn Attâr", "donem": "1145?–1221 · Nişabur", "devir": "Altın çağ",
+    "kisa": "Mantıku't-Tayr'ın şairi; kuşların Simurg'u arayış yolculuğu.",
+    "hayat": "Nişabur'da attarlık (eczacılık) yaptı. Menkıbeye göre bir dervişin dükkânında ölümü hatırlatması üzerine dünyadan el etek çekti. Mevlânâ, Attâr'ı ruhun kendisi olarak över. Moğol istilasında şehit olduğu rivayet edilir.",
+    "eserler": ["Mantıku't-Tayr (Kuş Dili)", "Tezkiretü'l-Evliyâ", "İlâhînâme", "Musîbetnâme", "Esrârnâme"]
+  },
+  {
+    "id": "kubra", "ad": "Necmeddîn-i Kübrâ", "donem": "1145–1221 · Harezm", "devir": "Altın çağ",
+    "kisa": "Kübreviyye tarikatının kurucusu; nur ve renk tecrübelerini anlatan şeyh.",
+    "hayat": "Harezm'de yaşadı, çok sayıda büyük şeyh yetiştirdiği için 'Şeyh-i velî-tıraş' diye anıldı. Seyr-i sülukta görülen nurları ve renkleri ayrıntılı anlattı. Moğolların Harezm'i kuşatmasında şehit oldu.",
+    "eserler": ["Fevâihu'l-Cemâl ve Fevâtihu'l-Celâl", "el-Usûlü'l-Aşere"]
+  },
+  {
+    "id": "konevi", "ad": "Sadreddîn Konevî", "donem": "1210–1274 · Malatya – Konya", "devir": "Altın çağ",
+    "kisa": "İbnü'l-Arabî'nin talebesi ve Mevlânâ'nın dostu.",
+    "hayat": "Malatya'da doğdu, İbnü'l-Arabî'nin yanında yetişti ve onun düşüncesini sistemli bir dille açıkladı. Konya'da Mevlânâ ile yakın dost oldu; Mevlânâ'nın cenaze namazını kıldırması için vasiyet edildiği rivayet edilir.",
+    "eserler": ["Miftâhu'l-Gayb", "İ'câzü'l-Beyân (Fatiha tefsiri)", "en-Nusûs", "el-Fükûk"]
+  },
+  {
+    "id": "sems", "ad": "Şems-i Tebrîzî", "donem": "ö. 1247? · Tebriz – Konya", "devir": "Altın çağ",
+    "kisa": "Mevlânâ'yı dönüştüren sırlı dost.",
+    "hayat": "Tebrizli bir dervişti; uzun seyahatlerden sonra 1244'te Konya'ya gelip Mevlânâ ile karşılaştı. Aralarındaki derin sohbet Mevlânâ'yı bir aşk şairine dönüştürdü. Bir süre sonra ortadan kayboldu; akıbeti hakkında farklı rivayetler vardır.",
+    "eserler": ["Makâlât (sohbetlerinden derlenen sözler)"]
+  },
+  {
+    "id": "bektas", "ad": "Hacı Bektâş-ı Velî", "donem": "13. yy · Horasan – Nevşehir", "devir": "Altın çağ",
+    "kisa": "Anadolu'nun manevi mayacılarından; 'Eline, beline, diline sahip ol'.",
+    "hayat": "Horasan'dan Anadolu'ya gelip bugünkü Hacıbektaş ilçesine (Sulucakarahöyük) yerleşti. Ahmed Yesevî geleneğinden beslendiği kabul edilir. Türkmen halkı arasında edep, hoşgörü ve ilim sevgisini yaydı.",
+    "eserler": ["Makâlât", "Hakkında yazılan Vilâyetnâme (menkıbeleri)"]
+  },
+
+  {
+    "id": "naksibend", "ad": "Bahâeddîn Nakşibend", "donem": "1318–1389 · Buhara", "devir": "Osmanlı ve sonrası",
+    "kisa": "Nakşibendiyye tarikatının piri; 'kalabalık içinde yalnızlık'.",
+    "hayat": "Buhara yakınlarında yaşadı. Gizli (hafî) zikri, sünnete sıkı bağlılığı ve halk içinde yaşarken kalben Allah ile olmayı (halvet der encümen) öğütledi. Yolu Hindistan'dan Anadolu'ya kadar yayıldı.",
+    "eserler": ["Sözleri (Reşehât gibi eserlerde nakledilir)"]
+  },
+  {
+    "id": "cami", "ad": "Abdurrahman Câmî", "donem": "1414–1492 · Herat", "devir": "Osmanlı ve sonrası",
+    "kisa": "Klasik Fars edebiyatının son büyük şairi; evliya menkıbelerinin derleyicisi.",
+    "hayat": "Herat'ta yaşadı, Nakşibendî yoluna bağlandı. İbnü'l-Arabî'nin fikirlerini şiir ve nesirle açıkladı. Evliyanın hayatını anlatan Nefehâtü'l-Üns'ü Osmanlı'da da çok okundu.",
+    "eserler": ["Nefehâtü'l-Üns", "Levâih", "Bahâristân", "Heft Evreng"]
+  },
+  {
+    "id": "bayram", "ad": "Hacı Bayrâm-ı Velî", "donem": "1352?–1430 · Ankara", "devir": "Osmanlı ve sonrası",
+    "kisa": "Bayramiyye tarikatının kurucusu; Ankara'nın manevi önderi.",
+    "hayat": "Ankara'da müderrisken Şeyh Hâmid-i Velî'ye (Somuncu Baba) intisap etti. Ahilik geleneğiyle iç içe; tarlada birlikte çalışılan, emeği yücelten bir yol öğretti. Akşemseddin'in şeyhidir.",
+    "eserler": ["Birkaç Türkçe ilahisi ('Nâgehân ol şâra vardım...')"]
+  },
+  {
+    "id": "hudayi", "ad": "Aziz Mahmud Hüdâyî", "donem": "1541–1628 · Şereflikoçhisar – Üsküdar", "devir": "Osmanlı ve sonrası",
+    "kisa": "Celvetiyye tarikatının kurucusu; Üsküdar'ın velisi.",
+    "hayat": "Medrese tahsilinden sonra kadılık yaparken Üftâde Hazretleri'ne bağlandı. Halk içinde hizmet etmeyi esas alan 'celvet' yolunu öğretti. Osmanlı padişahlarına da nasihat eden bir gönül insanı oldu.",
+    "eserler": ["Dîvân (ilahileri)", "Vâkıât (Üftâde'nin sohbetleri)"]
+  },
+  {
+    "id": "rabbani", "ad": "İmam-ı Rabbânî", "donem": "1564–1624 · Serhend", "devir": "Osmanlı ve sonrası",
+    "kisa": "Müceddid-i elf-i sânî; vahdet-i şuhûd anlayışının temsilcisi.",
+    "hayat": "Ahmed Fârûkî Serhendî, Hindistan'da yaşadı. Babür sarayının dini karmaşasına karşı Sünnet'e dönüşü savundu, bu yüzden hapse de atıldı. İkinci bin yılın yenileyicisi (müceddid) olarak anıldı. Said Nursî onu 'üstadım' diye anar.",
+    "eserler": ["Mektûbât (üç cilt mektup)"]
+  },
+  {
+    "id": "misri", "ad": "Niyâzî-i Mısrî", "donem": "1618–1694 · Malatya – Limni", "devir": "Osmanlı ve sonrası",
+    "kisa": "Coşkulu ilahileriyle bilinen Halvetî şeyhi.",
+    "hayat": "Malatya'da doğdu, Mısır'da tahsil gördüğü için 'Mısrî' lakabını aldı. Halvetî şeyhi olarak Bursa'da irşad etti. Sözlerinden dolayı birkaç kez sürgüne gönderildi; Limni adasında vefat etti.",
+    "eserler": ["Dîvân", "Mevâidü'l-İrfân"]
+  },
+  {
+    "id": "bursevi", "ad": "İsmail Hakkı Bursevî", "donem": "1653–1725 · Bursa", "devir": "Osmanlı ve sonrası",
+    "kisa": "Rûhu'l-Beyân tefsirinin müellifi; Celvetî şeyhi.",
+    "hayat": "Bursa'da yaşayan Celvetî şeyhidir. Kur'an'ı tasavvufi incelikleriyle yorumlayan büyük tefsiri ve yüzü aşkın eseriyle Osmanlı'nın en verimli müelliflerinden biri oldu.",
+    "eserler": ["Rûhu'l-Beyân (tefsir)", "Kitâbü'n-Netîce", "Ferahu'r-Rûh"]
+  },
+  {
+    "id": "ihakki", "ad": "Erzurumlu İbrahim Hakkı", "donem": "1703–1780 · Erzurum – Tillo", "devir": "Osmanlı ve sonrası",
+    "kisa": "Marifetnâme'nin müellifi; ilim ile irfanı birleştiren âlim.",
+    "hayat": "Erzurum'da doğdu, Siirt'in Tillo kasabasında İsmail Fakirullah'ın terbiyesinde yetişti. Astronomi, anatomi, psikoloji ve ahlakı tasavvufla birlikte ele aldığı ansiklopedik Marifetnâme'yi yazdı.",
+    "eserler": ["Marifetnâme", "Dîvân (içinde Tefviznâme)"]
+  },
+  {
+    "id": "halid", "ad": "Mevlânâ Hâlid-i Bağdâdî", "donem": "1779–1827 · Şehrizor – Şam", "devir": "Osmanlı ve sonrası",
+    "kisa": "Nakşibendiyye'nin Hâlidiyye kolunun kurucusu.",
+    "hayat": "Süleymaniye (Şehrizor) bölgesinde doğdu, Hindistan'da Şah Abdullah Dehlevî'den icazet aldı. Döndükten sonra Osmanlı coğrafyasında geniş bir etki bıraktı. Said Nursî'nin yetiştiği çevre de bu geleneğe bağlıdır.",
+    "eserler": ["Mektuplar", "Farsça Dîvân"]
+  },
+  {
+    "id": "ikbal", "ad": "Muhammed İkbal", "donem": "1877–1938 · Siyalkot – Lahor", "devir": "Yakın dönem",
+    "kisa": "Mevlânâ'yı rehber edinen şair-filozof; 'benlik' (hodî) felsefesi.",
+    "hayat": "Bugünkü Pakistan'da doğdu, Cambridge ve Münih'te felsefe okudu. Mevlânâ'yı manevi rehberi saydı. İnsanın Allah'a yaklaştıkça benliğinin yok olmadığını, aksine güçlenip olgunlaştığını savundu.",
+    "eserler": ["Esrâr-ı Hodî", "Rumûz-ı Bîhodî", "Câvidnâme", "Peyâm-ı Maşrık", "İslam'da Dini Düşüncenin Yeniden İnşası"]
+  },
+  {
+    "id": "kenan", "ad": "Ken'an Rifâî", "donem": "1867–1950 · Medine – İstanbul", "devir": "Yakın dönem",
+    "kisa": "Modern dönemde Mevlânâ geleneğinin yorumcusu.",
+    "hayat": "Medine'de doğdu, İstanbul'da yaşadı; Rifâî şeyhi ve eğitimciydi. Mesnevî'yi şerh ederek bu mirası modern okura aktardı; sohbetleri talebeleri tarafından derlendi.",
+    "eserler": ["Şerhli Mesnevî-i Şerîf", "Sohbetler"]
+  }
+]
